@@ -7,7 +7,6 @@ from serial import SerialException
 from numpy  import pi
 from time   import sleep
 from motor_tools  import *
-#from motor_position import *
 
 
 #--------------Yarp ports definition---------------------
