@@ -14,7 +14,7 @@ from motor_tools  import *
 y.Network.init()
 
 
-#creting output port
+#creating output port for stm32_1 position
 out_1       =y.BufferedPortBottle()
 out_1_name  ="/stm32_1/position/out1"
 out_1.open(out_1_name)
