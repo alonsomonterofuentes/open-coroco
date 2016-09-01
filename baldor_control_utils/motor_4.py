@@ -9,7 +9,6 @@ from time   import sleep
 from motor_tools import *
 
 
-
 #--------------Yarp ports definition---------------------
 
 #starting yarp network
